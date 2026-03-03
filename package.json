@@ -1,5 +1,5 @@
 {
-  "name": "basic-server-setup",
+  "name": "create-basic-server",
   "version": "1.0.0",
   "description": "Professional Node/Express/DB Scaffolder",
   "main": "bin/cli.js",
