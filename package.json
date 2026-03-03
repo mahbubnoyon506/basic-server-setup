@@ -1,0 +1,16 @@
+{
+  "name": "basic-server-setup",
+  "version": "1.0.0",
+  "description": "Professional Node/Express/DB Scaffolder",
+  "main": "bin/cli.js",
+  "bin": {
+    "create-basic-server": "./bin/cli.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.2.6"
+  },
+  "author": "Mahbub Noyon",
+  "license": "MIT"
+}
