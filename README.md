@@ -1,4 +1,4 @@
-# create-basic-server
+# Create a Server & Authentication
 
 **A lightweight, opinionated CLI to scaffold professional Node.js backend services in seconds.**
 

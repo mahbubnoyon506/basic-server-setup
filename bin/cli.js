@@ -32,7 +32,7 @@ async function init() {
             return;
         }
 
-        console.log(chalk.yellow("🏗️  Scaffolding project..."));
+        console.log(chalk.yellow(`🏗️ Creating your project ${answers.projectName}...`));
 
         // Copy Common Templates
         const templatePath = path.join(__dirname, '../templates');
