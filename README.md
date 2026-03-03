@@ -19,7 +19,7 @@ Stop wasting time setting up folder structures, authentication, and database con
 You don't even need to install it globally. Just run it using `npx`:
 
 ```bash
-npm i create-basic-server
+npx create-basic-server
 
 ```
 
