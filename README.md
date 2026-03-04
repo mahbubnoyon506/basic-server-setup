@@ -16,10 +16,14 @@ Stop wasting time setting up folder structures, authentication, and database con
 
 ## Quick Start
 
-You don't even need to install it globally. Just run it using `npx`:
+**Don't install this! Run it directly using `npx`:**
 
 ```bash
 npx create-basic-server
+
+#or
+
+yarn create-basic-server
 
 ```
 
@@ -38,7 +42,7 @@ create-basic-server
 The tool creates a clean, scalable architecture inspired by industry best practices:
 
 ```text
-my-api/
+server/
 ├── src/
 │   ├── config/          # Database connection logic
 │   ├── controllers/     # Request handlers
